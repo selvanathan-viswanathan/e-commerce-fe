@@ -7,9 +7,7 @@
   "files.autoSave": "afterDelay",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
-  "editor.rulers": [
-    80
-  ],
+  "editor.rulers": [80],
   "editor.tabCompletion": "on",
   "editor.tabSize": 2,
   "editor.trimAutoWhitespace": true,
