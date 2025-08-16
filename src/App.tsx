@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1>Hello Boss</h1>
       <h1>Vite + {count} + React</h1>
       <div
         className="flex min-h-svh flex-col items-center justify-center"
